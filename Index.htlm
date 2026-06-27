@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pizza Kelly – Antibes</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700;1,900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--noir:#0a0a0a;--noir2:#111111;--or:#C9A84C;--or2:#E8C96A;--or3:#F5E199;--blanc:#FFFFFF;--gris:#888;--gris2:#555}
+html{scroll-behavior:smooth}
+body{font-family:'Inter',sans-serif;background:var(--noir);color:var(--blanc);overflow-x:hidden}
+</style>
+</head>
+<body>
+<h1 style="text-align:center;font-family:Georgia,serif;color:#C9A84C;padding:40px">Pizza Kelly – Antibes</h1>
+<p style="text-align:center;color:#888;font-size:1.2rem">Site en cours de chargement...</p>
+<script>window.location.href="https://cherifa065.github.io/solid-engine/pizza-kelly-site.html"</script>
+</body>
+</html>
